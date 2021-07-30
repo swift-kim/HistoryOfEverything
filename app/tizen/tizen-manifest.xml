@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest package="com.u2dimensions.app" version="1.0.0" api-version="4.0" xmlns="http://tizen.org/ns/packages">
+<manifest package="com.u2dimensions.historyofeverything" version="1.0.1" api-version="4.0" xmlns="http://tizen.org/ns/packages">
     <profile name="common"/>
-    <ui-application appid="com.u2dimensions.app" exec="Runner.dll" type="dotnet" multiple="false" taskmanage="true" nodisplay="false" api-version="4" launch_mode="single">
-        <label>app</label>
+    <ui-application appid="com.u2dimensions.historyofeverything" exec="Runner.dll" type="dotnet" multiple="false" taskmanage="true" nodisplay="false" api-version="4" launch_mode="single">
+        <label>historyofeverything</label>
         <icon>ic_launcher.png</icon>
         <metadata key="http://tizen.org/metadata/prefer_dotnet_aot" value="true"/>
         <metadata key="http://tizen.org/metadata/direct-launch" value="yes"/>
